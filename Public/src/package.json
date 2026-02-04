@@ -1,0 +1,11 @@
+{
+  "name": "road-builder",
+  "version": "1.0.0",
+  "description": "A visual online freeway builder using HTML canvas.",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve public"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
